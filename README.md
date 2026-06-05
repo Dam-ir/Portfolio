@@ -23,10 +23,10 @@ Junior ML Engineer | 4 решённых Kaggle-соревнования
 
 # Навыки
 
-- **ML:** XGBoost, RandomForest, Hyperparameter Tuning, Feature Engineering, One-Hot Encoding, Cross-Validation, Ensemble Learning, LogReg, LinReg, naive-Bayes, sklearn, 
+- **ML:** XGBoost, RandomForest, Hyperparameter Tuning, Feature Engineering, One-Hot Encoding, Cross-Validation, Ensemble Learning, LogReg, LinReg, naive-Bayes, sklearn 
 - **DL:** PyTorch
-- **Data:** pandas, numpy, matplotlib
-- **Инструменты:** Jupyter Notebook
+- **Data:** pandas, numpy, matplotlib 
+- **Инструменты:** Jupyter Notebook 
 
 # Резюме
 
