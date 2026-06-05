@@ -3,7 +3,7 @@ agishev.dt@phystech.edu
 +77064226750
 
 Junior ML Engineer | 4 решённых Kaggle-соревнования 
-- **Kaggle:** [kaggle.com/ivan](https://kaggle.com/ivan)
+- **Kaggle:** [kaggle.com/damir4](https://www.kaggle.com/damir4)
 
 # Мои проекты (Kaggle)
 
