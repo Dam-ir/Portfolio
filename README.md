@@ -23,10 +23,10 @@ Junior ML Engineer | 4 решённых Kaggle-соревнования | Ищу
 
 # Навыки
 
-- **ML:** CatBoost, LightGBM, XGBoost, sklearn
-- **DL:** PyTorch (база)
+- **ML:** XGBoost, CatBoost, LightGBM, RandomForest, LogRed, LinRed, naive-Bayes, sklearn
+- **DL:** PyTorch
 - **Data:** pandas, numpy, matplotlib
-- **Инструменты:** Git, Jupyter, Optuna
+- **Инструменты:** Jupyter Notebook
 
 # Резюме
 
