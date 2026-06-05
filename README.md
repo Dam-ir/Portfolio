@@ -10,8 +10,9 @@ Junior ML Engineer | 4 решённых Kaggle-соревнования | Ищу
 | Проект | Задача | Метрика | Место | Код |
 |--------|--------|---------|-------|-----|
 | House Prices | RandomForest | RMSLE 0.16770 | топ 30% | [GitHub]() |
-| Spaceship Titanic | RandomForest | ROC-AUC | топ 18% | [GitHub]() |
-| 
+| Binary Classification with a Bank Churn Dataset | RandomForest | ROC-AUC | топ 18% | [GitHub]() |
+| Kaggle Community Olympiad-AI Durg Credit Card Attr | F1 | - | [GitHub]() |
+| Binary Classification with a Bank Dataset | XGBoost | ROC-AUC | топ 5-10% |  [GitHub]() |
 
 # Сертификаты
 1. Математика и python для анализа данных (Yandex & MIPT). [GitHub](https://github.com/Dam-ir/Portfolio/blob/42fd20285fd4ed97c916761e788f7cc1d2026820/certificates/Math%20and%20python%20for%20data%20analysis.pdf)
