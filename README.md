@@ -2,7 +2,7 @@
 agishev.dt@phystech.edu
 +77064226750
 
-Junior ML Engineer | 4 решённых Kaggle-соревнования | Ищу первую работу
+Junior ML Engineer | 4 решённых Kaggle-соревнования 
 - **Kaggle:** [kaggle.com/ivan](https://kaggle.com/ivan)
 
 # Мои проекты (Kaggle)
