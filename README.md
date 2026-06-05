@@ -7,7 +7,7 @@ Junior ML Engineer | 4 решённых Kaggle-соревнования
 
 # Мои проекты (Kaggle)
 
-| Проект | Задача | Методы | Метрика | Место | Код |
+| Проект | Задача | Метод (финальный) | Метрика | Место | Код |
 |--------|--------|--------|-------|-------|-----|
 | House Prices | Регрессия | RandomForest | RMSLE 0.16770 | топ 30% | [GitHub]() |
 | Binary Classification with a Bank Churn Dataset | Бинарная классификация | (PyTorch, 3 hidden layers) | ROC-AUC | топ 18% | [GitHub]() |
