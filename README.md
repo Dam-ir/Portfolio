@@ -11,7 +11,7 @@ Junior ML Engineer | 4 решённых Kaggle-соревнования
 |--------|--------|--------|-------|-------|-----|
 | House Prices | Регрессия | RandomForest | RMSLE 0.16770 | топ 30% | [GitHub]() |
 | Binary Classification with a Bank Churn Dataset | Бинарная классификация | (PyTorch, 3 hidden layers) | ROC-AUC | топ 18% | [GitHub]() |
-| Kaggle Community Olympiad-AI Durg Credit Card Attr | Бинарная классификация | RandomForest | F1 | - | [GitHub]() |
+| Kaggle Community Olympiad-AI Drug Credit Card | Бинарная классификация | RandomForest | F1 | - | [GitHub]() |
 | Binary Classification with a Bank Dataset | Бинарная классификация | XGBoost | ROC-AUC | топ 5-10% |  [GitHub]() |
 
 # Сертификаты
