@@ -9,10 +9,10 @@ Junior ML Engineer | 4 решённых Kaggle-соревнования
 
 | Проект | Задача | Метод (финальный) | Метрика | Место | Код |
 |--------|--------|--------|-------|-------|-----|
-| House Prices | Регрессия | RandomForest | RMSLE 0.16770 | топ 30% | [GitHub]() |
-| Binary Classification with a Bank Churn Dataset | Бинарная классификация | (PyTorch, 3 hidden layers) | ROC-AUC | топ 18% | [GitHub]() |
-| Kaggle Community Olympiad-AI Drug Credit Card | Бинарная классификация | RandomForest | F1 | - | [GitHub]() |
-| Binary Classification with a Bank Dataset | Бинарная классификация | XGBoost | ROC-AUC | топ 5-10% |  [GitHub]() |
+| House Prices | Регрессия | RandomForest | RMSLE 0.16770 | топ 30% | [GitHub](https://github.com/Dam-ir/Portfolio/blob/0c7d18fac39629a7ce59e57bbc213a662004b7a5/Kaggle/Problem_1_Housing_prices_Kaggle_LinReg_RandomForest.ipynb) |
+| Binary Classification with a Bank Churn Dataset | Бинарная классификация | (PyTorch, 3 hidden layers) | ROC-AUC | топ 18% | [GitHub](https://github.com/Dam-ir/Portfolio/blob/0c7d18fac39629a7ce59e57bbc213a662004b7a5/Kaggle/Problem_2_Bank_excitement_Kaggle_Torch_NN.ipynb) |
+| Kaggle Community Olympiad-AI Drug Credit Card | Бинарная классификация | RandomForest | F1 | - | [GitHub](https://github.com/Dam-ir/Portfolio/blob/0c7d18fac39629a7ce59e57bbc213a662004b7a5/Kaggle/Problem_3_Credit_Card_Attr_Kaggle_RandomForest.ipynb) |
+| Binary Classification with a Bank Dataset | Бинарная классификация | XGBoost | ROC-AUC | топ 5-10% |  [GitHub](https://github.com/Dam-ir/Portfolio/blob/0c7d18fac39629a7ce59e57bbc213a662004b7a5/Kaggle/Problem_4_Binary_Classification_Bank_Dataset_Kaggle_XGBoost.ipynb) |
 
 # Сертификаты
 1. Математика и python для анализа данных (Yandex & MIPT). [GitHub](https://github.com/Dam-ir/Portfolio/blob/42fd20285fd4ed97c916761e788f7cc1d2026820/certificates/Math%20and%20python%20for%20data%20analysis.pdf)
